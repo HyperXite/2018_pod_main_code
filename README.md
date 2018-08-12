@@ -1,2 +1,2 @@
-# 2018_pod_main_code
-Code for the HyperXite pod for the 2018 competition
+# SpaceXCompetitionCode
+The main code for the 2018 Hyperloop Pod Competition for HyperXite of UC Irvine.
